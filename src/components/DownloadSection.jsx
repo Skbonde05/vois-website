@@ -11,7 +11,7 @@ export const DownloadSection = () => {
 
         {/* Download Button */}
         <a
-          href="https://drive.google.com/uc?export=download&id=1_2pARy8rTGigYABf2IE4xSbxvi-h9lNJ" target="_blank"
+          href="https://drive.google.com/uc?export=download&id=1bVqfw7HZqMgkCkny2NZvys_EvCYofIK5" target="_blank"
           className="inline-block px-6 py-3 bg-primary text-white rounded-lg text-lg font-semibold shadow hover:bg-primary/90 transition"
         >
           📥 Download for Windows (.exe)
