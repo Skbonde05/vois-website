@@ -13,7 +13,7 @@ export const HeroSection = () => {
             <br />
             <span className="text-primary opacity-0 animate-fade-in-delay-1">
               {" "}
-              Your Personal Laptop Voice Assistant  
+              Your Smart Voice Assistant for Laptops  
             </span>
             <br />
             <span className="text-gradient text-2xl ml-2 opacity-0 animate-fade-in-delay-2">
