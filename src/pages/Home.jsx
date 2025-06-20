@@ -21,6 +21,17 @@ export const Home = () => {
       <Navbar />
       {/* Main Content */}
       <main>
+
+        {/* SEO content block */}
+        <section className="text-center px-4 py-12">
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">
+            VOIS – Smart Voice Assistant for Laptops
+          </h1>
+          <p className="text-lg md:text-xl max-w-2xl mx-auto text-muted-foreground">
+            Control your laptop using just your voice. VOIS is an AI-powered voice assistant built with React and Vite that lets you open apps, run commands, and automate daily tasks effortlessly.
+          </p>
+        </section>
+
         <HeroSection />
         <AboutSection />
         <FeaturesSection />
